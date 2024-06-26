@@ -7,7 +7,7 @@ Mount point is /home/pi/usb
 ## Install
 ```
 git clone https://github.com/Maxime3d77/Debian-automount-usb.git
-cd automount-usb-klipper/
+cd Debian-automount-usb/
 sudo ./CONFIGURE.sh
 ```
 
