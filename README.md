@@ -8,11 +8,14 @@ Mount point is /home/pi/usb
 ```
 git clone https://github.com/Maxime3d77/Debian-automount-usb.git
 cd Debian-automount-usb/
+chmod +x CONFIGURE.sh
+chmod +x usb-mount.sh
 sudo ./CONFIGURE.sh
 ```
 
 ## Unintall
 ```
+chmod +x REMOVE.sh
 sudo ./REMOVE.sh
 ```
 
